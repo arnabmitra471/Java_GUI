@@ -1,2 +1,4 @@
 *.log
-dir/
+*.txt
+/dir/
+static/dir
